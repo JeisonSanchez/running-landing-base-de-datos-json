@@ -1,0 +1,14 @@
+{
+	"reglamento": {
+		"titulo": "Reglamento de la carrera",
+		"contenido": "<h3>1. Participación y requisitos</h3> <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto:</p> <ul> <li>Podrán inscribirse corredores de 18 años en adelante, presentando identificación oficial.</li> <li>Cada participante deberá completar correctamente el proceso de inscripción y portar su número de competidor de forma visible durante toda la carrera.</li> </ul> <h3>2. Normas de competencia</h3> <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto:</p> <ul> <li>La salida será puntual a la hora establecida; cualquier corredor que se incorpore después de la salida oficial será descalificado.</li> <li>El recorrido estará debidamente señalizado y deberá ser respetado en su totalidad; atajos o desviaciones implican descalificación.</li> </ul>"
+	},
+	"datos_personales": {
+		"titulo": "Tratamiento de datos personales",
+		"contenido": "<h3>1. Finalidad del tratamiento de los datos personales</h3> <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto:</p> <ul> <li>Los datos personales recabados durante la inscripción serán utilizados exclusivamente para fines relacionados con la organización, gestión, control y difusión de la carrera.</li> <li>Entre las finalidades se encuentran: confirmar la participación del corredor, asignar el número de competidor, elaborar clasificaciones y estadísticas, así como enviar información logística y de resultados.</li> </ul> <h3>2. Derechos de los titulares de los datos</h3> <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto:</p> <ul> <li>Los participantes tienen derecho a acceder, rectificar, cancelar u oponerse (derechos ARCO) al tratamiento de sus datos personales conforme a la normativa vigente.</li> <li>Para ejercer dichos derechos, deberán enviar una solicitud escrita al comité organizador a través del correo electrónico oficial o en el domicilio señalado en la convocatoria.</li> </ul>"
+	},
+	"terminos_condiciones": {
+		"titulo": "Términos y condiciones",
+		"contenido": "<h3>1. Aceptación de los términos</h3> <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto:</p> <ul> <li>La participación en el evento implica la aceptación plena y sin reservas de los presentes Términos y Condiciones.</li> <li>El usuario reconoce haber leído y entendido este documento antes de completar su inscripción.</li> </ul> <h3>2. Responsabilidad del participante</h3> <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto:</p> <ul> <li>Cada corredor es responsable de contar con las condiciones físicas y de salud necesarias para completar el recorrido.</li> <li>El comité organizador no se hace responsable por accidentes, lesiones o daños que se deriven de la participación en el evento.</li> </ul>"
+	}
+}

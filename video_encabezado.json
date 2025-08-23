@@ -1,0 +1,10 @@
+{
+	"escritorio": {
+		"video": "/uploads/videos/banner-running-escritorio.mp4",
+		"poster": "/uploads/videos/banner-running-escritorio.webp"
+	},
+	"celular": {
+		"video": "/uploads/videos/banner-running-celular.mp4",
+		"poster": "/uploads/videos/banner-running-celular.webp"
+	}
+}

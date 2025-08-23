@@ -1,0 +1,59 @@
+[
+	{
+		"nombre_categoria": "2k",
+		"slides": [
+			{
+				"titulo": "Slide 1",
+				"url_imagen": "/uploads/images/categorias/2k/slide1.jpg"
+			},
+			{
+				"titulo": "Slide 2",
+				"url_imagen": "/uploads/images/categorias/2k/slide2.jpg"
+			},
+			{
+				"titulo": "Slide 3",
+				"url_imagen": "/uploads/images/categorias/2k/slide3.jpg"
+			}
+		],
+		"mapa_recorrido": "/uploads/images/categorias/2k/mapa.jpg",
+		"link_inscripcion": "https://www.google.com/"
+	},
+	{
+		"nombre_categoria": "6k",
+		"slides": [
+			{
+				"titulo": "Slide 1",
+				"url_imagen": "/uploads/images/categorias/6k/slide1.jpg"
+			},
+			{
+				"titulo": "Slide 2",
+				"url_imagen": "/uploads/images/categorias/6k/slide2.jpg"
+			},
+			{
+				"titulo": "Slide 3",
+				"url_imagen": "/uploads/images/categorias/6k/slide3.jpg"
+			}
+		],
+		"mapa_recorrido": "/uploads/images/categorias/6k/mapa.jpg",
+		"link_inscripcion": "https://www.google.com/"
+	},
+	{
+		"nombre_categoria": "12k",
+		"slides": [
+			{
+				"titulo": "Slide 1",
+				"url_imagen": "/uploads/images/categorias/12k/slide1.jpg"
+			},
+			{
+				"titulo": "Slide 2",
+				"url_imagen": "/uploads/images/categorias/12k/slide2.jpg"
+			},
+			{
+				"titulo": "Slide 3",
+				"url_imagen": "/uploads/images/categorias/12k/slide3.jpg"
+			}
+		],
+		"mapa_recorrido": "/uploads/images/categorias/12k/mapa.jpg",
+		"link_inscripcion": "https://www.google.com/"
+	}
+]

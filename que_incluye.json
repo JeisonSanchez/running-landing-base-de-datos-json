@@ -1,0 +1,61 @@
+{
+	"titulo": "¿Qué incluye tu inscripción?",
+	"contenido": [
+		{
+			"nombre": "Kit: producto de los patrocinadores",
+			"url_icono": "/uploads/images/iconos/kit.svg"
+		},
+		{
+			"nombre": "Seguro <br>competidor",
+			"url_icono": "/uploads/images/iconos/seguro.svg"
+		},
+		{
+			"nombre": "Número <br>y tiempos",
+			"url_icono": "/uploads/images/iconos/tiempos.svg"
+		},
+		{
+			"nombre": "Zona de <br>hidratación",
+			"url_icono": "/uploads/images/iconos/hidratacion.svg"
+		},
+		{
+			"nombre": "Vías cerradas para <br>el evento",
+			"url_icono": "/uploads/images/iconos/vias-cerradas.svg"
+		},
+		{
+			"nombre": "Asistencia <br>médica",
+			"url_icono": "/uploads/images/iconos/asistencia-medica.svg"
+		},
+		{
+			"nombre": "Cena de <br>campeones",
+			"url_icono": "/uploads/images/iconos/cena.svg"
+		},
+		{
+			"nombre": "Camiseta",
+			"url_icono": "/uploads/images/iconos/camiseta.svg"
+		},
+		{
+			"nombre": "Sorteos",
+			"url_icono": "/uploads/images/iconos/sorteo.svg"
+		},
+		{
+			"nombre": "Chip",
+			"url_icono": "/uploads/images/iconos/chip.svg"
+		},
+		{
+			"nombre": "Medalla",
+			"url_icono": "/uploads/images/iconos/medalla.svg"
+		},
+		{
+			"nombre": "Experiencia",
+			"url_icono": "/uploads/images/iconos/experiencia.svg"
+		},
+		{
+			"nombre": "Diploma",
+			"url_icono": "/uploads/images/iconos/diploma.svg"
+		},
+		{
+			"nombre": "Fotografías",
+			"url_icono": "/uploads/images/iconos/fotografias.svg"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"avalado": {
+		"nombre": "Empresa 1",
+		"url_logo": "/uploads/images/aliados/logo1.jpg"
+	},
+	"organizado": {
+		"nombre": "Empresa 2",
+		"url_logo": "/uploads/images/aliados/logo1.jpg"
+	},
+	"produccion": {
+		"nombre": "Empresa 3",
+		"url_logo": "/uploads/images/aliados/logo1.jpg"
+	}
+}

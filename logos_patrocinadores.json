@@ -1,0 +1,50 @@
+[
+	{
+		"nombre": "Empresa 1",
+		"url_logo": "/uploads/images/patrocinadores/logo1.jpg"
+	},
+	{
+		"nombre": "Empresa 2",
+		"url_logo": "/uploads/images/patrocinadores/logo1.jpg"
+	},
+	{
+		"nombre": "Empresa 3",
+		"url_logo": "/uploads/images/patrocinadores/logo1.jpg"
+	},
+	{
+		"nombre": "Empresa 4",
+		"url_logo": "/uploads/images/patrocinadores/logo1.jpg"
+	},
+	{
+		"nombre": "Empresa 5",
+		"url_logo": "/uploads/images/patrocinadores/logo1.jpg"
+	},
+	{
+		"nombre": "Empresa 6",
+		"url_logo": "/uploads/images/patrocinadores/logo1.jpg"
+	},
+	{
+		"nombre": "Empresa 7",
+		"url_logo": "/uploads/images/patrocinadores/logo1.jpg"
+	},
+	{
+		"nombre": "Empresa 8",
+		"url_logo": "/uploads/images/patrocinadores/logo1.jpg"
+	},
+	{
+		"nombre": "Empresa 9",
+		"url_logo": "/uploads/images/patrocinadores/logo1.jpg"
+	},
+	{
+		"nombre": "Empresa 10",
+		"url_logo": "/uploads/images/patrocinadores/loogo1.jpg"
+	},
+	{
+		"nombre": "Empresa 11",
+		"url_logo": "/uploads/images/patrocinadores/loogo1.jpg"
+	},
+	{
+		"nombre": "Empresa 12",
+		"url_logo": "/uploads/images/patrocinadores/loogo1.jpg"
+	}
+]

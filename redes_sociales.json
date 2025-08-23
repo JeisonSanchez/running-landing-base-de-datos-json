@@ -1,0 +1,17 @@
+[
+	{
+		"nombre": "Facebook",
+		"icono": "icon-facebook",
+		"url": "https://www.facebook.com/profile.php?id=61579253677366"
+	},
+	{
+		"nombre": "Instagram",
+		"icono": "iconfont-instagram",
+		"url": "https://www.instagram.com/runninglifesantander/"
+	},
+	{
+		"nombre": "TikTok",
+		"icono": "iconfont-tiktok",
+		"url": "https://www.tiktok.com/@runninglifesantander"
+	}
+]

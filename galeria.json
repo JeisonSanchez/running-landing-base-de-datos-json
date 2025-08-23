@@ -1,0 +1,65 @@
+{
+	"titulo": "Galería",
+	"contenido": [
+		{
+			"nombre": "Imagen 1",
+			"url_miniatura": "/uploads/images/galeria/img1.jpg",
+			"url_grande": "/uploads/images/galeria/modal/img1.jpg"
+		},
+		{
+			"nombre": "Imagen 2",
+			"url_miniatura": "/uploads/images/galeria/img2.jpg",
+			"url_grande": "/uploads/images/galeria/modal/img2.jpg"
+		},
+		{
+			"nombre": "Imagen 3",
+			"url_miniatura": "/uploads/images/galeria/img3.jpg",
+			"url_grande": "/uploads/images/galeria/modal/img3.jpg"
+		},
+		{
+			"nombre": "Imagen 4",
+			"url_miniatura": "/uploads/images/galeria/img4.jpg",
+			"url_grande": "/uploads/images/galeria/modal/img4.jpg"
+		},
+		{
+			"nombre": "Imagen 5",
+			"url_miniatura": "/uploads/images/galeria/img5.jpg",
+			"url_grande": "/uploads/images/galeria/modal/img5.jpg"
+		},
+		{
+			"nombre": "Imagen 6",
+			"url_miniatura": "/uploads/images/galeria/img6.jpg",
+			"url_grande": "/uploads/images/galeria/modal/img6.jpg"
+		},
+		{
+			"nombre": "Imagen 7",
+			"url_miniatura": "/uploads/images/galeria/img7.jpg",
+			"url_grande": "/uploads/images/galeria/modal/img7.jpg"
+		},
+		{
+			"nombre": "Imagen 8",
+			"url_miniatura": "/uploads/images/galeria/img8.jpg",
+			"url_grande": "/uploads/images/galeria/modal/img8.jpg"
+		},
+		{
+			"nombre": "Imagen 9",
+			"url_miniatura": "/uploads/images/galeria/img9.jpg",
+			"url_grande": "/uploads/images/galeria/modal/img9.jpg"
+		},
+		{
+			"nombre": "Imagen 10",
+			"url_miniatura": "/uploads/images/galeria/img10.jpg",
+			"url_grande": "/uploads/images/galeria/modal/img10.jpg"
+		},
+		{
+			"nombre": "Imagen 11",
+			"url_miniatura": "/uploads/images/galeria/img11.jpg",
+			"url_grande": "/uploads/images/galeria/modal/img11.jpg"
+		},
+		{
+			"nombre": "Imagen 12",
+			"url_miniatura": "/uploads/images/galeria/img12.jpg",
+			"url_grande": "/uploads/images/galeria/modal/img12.jpg"
+		}
+	]
+}
